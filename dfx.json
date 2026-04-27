@@ -1,0 +1,20 @@
+{
+  "canisters": {
+    "frontend": {
+      "type": "assets",
+      "source": [
+        "dist"
+      ],
+      "controllers": [
+        "fjmsa-s52hr-hx7f3-e22hu-2xnsd-u6ats-s44th-25ngn-s4vgx-wspyr-pae"
+      ]
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "version": 1
+}
